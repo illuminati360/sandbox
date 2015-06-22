@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Johnson\'s Sandbox</string>
+    <string name="body_number">Body Number</string>
+    <string name="joint_number">Joint Number</string>
+    <string name="hint">Hint</string>
+    <string name="contacts">Contacts</string>
+    <string name="spawn">Spawn</string>
+    <string name="spawn_circle">Spawn Circle</string>
+    <string name="spawn_square">Spawn Square</string>
+    <string name="control">Control</string>
+    <string name="remove_prop">Remove Prop</string>
+    <string name="move_prop">Move Prop</string>
+    <string name="stop_prop">Stop Prop</string>
+    <string name="freeze_prop">Freeze Prop</string>
+    <string name="unfreeze_prop">Unfreeze Prop</string>
+    <string name="place_prop">Place Prop</string>
+    <string name="gravity">Gravity</string>
+    <string name="toggle_gravity_sensor">Toggle Gravity Sensor</string>
+    <string name="toggle_zero_gravity">Toggle Zero Gravity</string>
+    <string name="joint">Joint</string>
+    <string name="distance_joint">Distance Joint</string>
+    <string name="revolute_joint">Revolute Joint</string>
+    <string name="pulley_joint">Pulley Joint</string>
+    <string name="prismatic_joint">Prismatic Joint</string>
+    <string name="spawn_circle_hint">Click to spawn a circle.</string>
+    <string name="spawn_sqaure_hint">Click to spawn a square.</string>
+    <string name="remove_prop_hint">Click to remove a prop.</string>
+    <string name="move_prop_hint">Click to drag a prop.</string>
+    <string name="stop_prop_hint">Click to stop a prop.</string>
+    <string name="freeze_prop_hint">Click to freeze a prop.</string>
+    <string name="unfreeze_prop_hint">Click to unfreeze a prop.</string>
+    <string name="place_prop_hint">Click to place a prop.</string>
+    <string name="distance_joint_hint">Click two props to create a distance joint between them.</string>
+    <string name="revolute_joint_hint">Click a prop as center, then click another prop to move around it.</string>
+    <string name="pulley_joint_hint">Select two anchors first, then select to props to create a pulley.</string>
+    <string name="prismatic_joint_hint">Click two props to create a prismatic joint between them.</string>
+    <string name="toggle_hud">Hud</string>
+
+</resources>

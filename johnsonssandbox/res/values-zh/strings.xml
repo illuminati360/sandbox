@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Johnson\'s Sandbox</string>
+    <string name="body_number">物体数</string>
+    <string name="joint_number">关节数</string>
+    <string name="hint">提示</string>
+    <string name="contacts">碰撞数</string>
+    <string name="spawn">创建</string>
+    <string name="spawn_circle">圆形</string>
+    <string name="spawn_square">正方形</string>
+    <string name="control">控制</string>
+    <string name="remove_prop">删除</string>
+    <string name="move_prop">移动</string>
+    <string name="stop_prop">停止</string>
+    <string name="freeze_prop">锁定</string>
+    <string name="unfreeze_prop">解锁定</string>
+    <string name="place_prop">强制摆放</string>
+    <string name="gravity">重力</string>
+    <string name="toggle_gravity_sensor">开/关重力感应</string>
+    <string name="toggle_zero_gravity">开/关零重力</string>
+    <string name="joint">关节</string>
+    <string name="distance_joint">距离</string>
+    <string name="revolute_joint">旋转</string>
+    <string name="pulley_joint">滑轮</string>
+    <string name="prismatic_joint">滑轨</string>
+    <string name="spawn_circle_hint">点击创建圆形。</string>
+    <string name="spawn_sqaure_hint">点击创建正方形。</string>
+    <string name="remove_prop_hint">点击移除物体。</string>
+    <string name="move_prop_hint">点击拖动物体。</string>
+    <string name="stop_prop_hint">点击停止物体。</string>
+    <string name="freeze_prop_hint">点击锁定物体。</string>
+    <string name="unfreeze_prop_hint">点击解锁物体。</string>
+    <string name="place_prop_hint">点击以强制摆放</string>
+    <string name="distance_joint_hint">点击两个物体以创建距离关节。</string>
+    <string name="revolute_joint_hint">点击一个物体作为中心，再点击另一个物体以使其围绕第一个物体旋转。</string>
+    <string name="pulley_joint_hint">选择两个锚点，在点击两个物体以建立滑轮关节。</string>
+    <string name="prismatic_joint_hint">选择两个物体建立滑轨关节。</string>
+    <string name="toggle_hud">开/关提示</string>
+
+</resources>
